@@ -4,11 +4,11 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "bplab-lcd": "github.com/team-bp/pxt-bplab-lcd",
-        "bplab-seven-segment": "github.com/team-bp/pxt-bplab-seven-segment",
-        "bplab-ultrasonic": "github.com/team-bp/pxt-bplab-ultrasonic",
-        "bplab-dht11": "github.com/team-bp/pxt-bplab-dht11",
-        "bplab-servo360": "github.com/team-bp/pxt-bplab-servo360"
+        "bplab-lcd": "github:team-bp/pxt-bplab-lcd",
+        "bplab-seven-segment": "github:team-bp/pxt-bplab-seven-segment",
+        "bplab-ultrasonic": "github:team-bp/pxt-bplab-ultrasonic",
+        "bplab-dht11": "github:team-bp/pxt-bplab-dht11",
+        "bplab-servo360": "github:team-bp/pxt-bplab-servo360"
     },
     "files": [
         "main.blocks",
