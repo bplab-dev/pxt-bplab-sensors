@@ -5,7 +5,7 @@
     "dependencies": {
         "core": "*",
         "lcd-bplab": "github:bplab-dev/pxt-bplab-lcd#v0.0.22",
-        "seven-segment-bplab": "github:bplab-dev/pxt-bplab-seven-segment#v0.0.14",
+        "seven-segment-bplab": "github:bplab-dev/pxt-bplab-seven-segment#v0.0.16",
         "ultrasonic-bplab": "github:bplab-dev/pxt-bplab-ultrasonic#v1.0.23",
         "servo-360-bplab": "github:bplab-dev/pxt-bplab-servo-360#v0.0.15",
         "soil-moisture-bplab": "github:bplab-dev/pxt-bplab-soil-moisture#v0.0.14",
