@@ -3,12 +3,7 @@
     "version": "0.0.4",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "bplab-lcd": "github:bplab-dev/pxt-bplab-lcd",
-        "bplab-seven-segment": "github:bplab-dev/pxt-bplab-seven-segment",
-        "bplab-ultrasonic": "github:bplab-dev/pxt-bplab-ultrasonic",
-        "bplab-dht11": "github:bplab-dev/pxt-bplab-dht11",
-        "bplab-servo360": "github:bplab-dev/pxt-bplab-servo-360"
+        "core": "*"
     },
     "files": [
         "main.blocks",
