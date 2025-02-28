@@ -3,7 +3,8 @@
     "version": "0.0.5",
     "description": "",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "lcd-bplab": "github:bplab-dev/pxt-bplab-lcd#latest"
     },
     "files": [
         "main.blocks",
