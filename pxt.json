@@ -4,7 +4,7 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "lcd-bplab": "github:bplab-dev/pxt-bplab-lcd#latest"
+        "lcd-bplab": "github:bplab-dev/pxt-bplab-lcd#v0.0.22"
     },
     "files": [
         "main.blocks",
